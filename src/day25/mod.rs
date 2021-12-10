@@ -3,11 +3,11 @@ pub fn day25() {
     println!("Result 25-2: {}", part2());
 }
 
-fn part1() -> usize {
+pub fn part1() -> usize {
     0
 }
 
-fn part2() -> usize {
+pub fn part2() -> usize {
     0
 }
 
